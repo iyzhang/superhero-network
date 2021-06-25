@@ -1,9 +1,7 @@
 # The Superhero Network
 
 The Superhero Network is an unaffiliated group of visible, influential and early-stage women CS
-researchers that fight against harassment and for a safe environment for
-everyone in the research community.  The focus will initially be on women, but I would love to eventually expand this to other underrepresented minorities and all PhD students.  The
-committee will have the following important features:
+researchers that fight against harassment and for a safe environment for everyone in the research community.  The focus will initially be on women, but I would love to eventually expand this to other underrepresented minorities and all PhD students.  The committee will have the following important features:
 
 * **Unaffiliated:** The group will not be sponsored or affiliated by any
   other organization to avoid conflicts of interest.  As demonstrated
@@ -46,7 +44,7 @@ First steps include:
 
 2. Start a women's (diversity in genders?) social hour the day before
    the conference starts.  MSR and other companies likely can sponsor this across
-   areas, so maybe we can rely on the MSR outreach team to implement
+   areas, so maybe we can rely on the outreach teams and conference organizers to implement
    this.  We often have diversity workshops but they have a lot of
    talks and not enough just socializing time.  We should have some
    activities to ensure younger women not in the "in crowd" have a
