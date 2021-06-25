@@ -20,10 +20,9 @@ researchers that fight against harassment and for a safe environment for everyon
 * **Early-stage:** The members must be young enough to be approachable and to have recently
   experienced harassment themselves (no Turing award winners!).
   
-* **Influential:** must be senior enough to get things changed (perhaps
-  just before or after tenure?) or know allies/mentors that can get
-  things changed.  Must have enough connections to be believed by a
-  significant set of the senior people in the community.
+* **Influential:** Members must be senior enough to enact change (perhaps
+  just before or after tenure?) or know allies/mentors that can implement recommendations.  They must have enough connections to the community be believed by a
+  significant set of the senior people.
 
 * **Visible:** People know who you are and can reach you on multiple
   social platforms.  Responsibilities will definitely include
@@ -54,7 +53,7 @@ First steps include:
 3. Discuss implementing an opt-in women-only block of rooms at the
    conference. For social networking but also for safety (e.g., I've
    had men at hotels follow me back to my floor in a creepy way).
-   Superheros serve as mentors, den mothers? Maybe always open door
+   Superheros serve as mentors, den mothers? Maybe have an open door
    policy? Also, discuss safety measures for getting from airport to
    hotel when some women arrive alone late at night, some hotels are
    out of the way or in countries where it's not safe to travel alone
