@@ -62,3 +62,6 @@ First steps include:
    outside alone as a woman without being extremely careful, asking
    women in their early 20s to navigate a foreign country alone is a
    significant barrier to participation for many.
+
+### How To Help
+For now, I'm keeping the network extremely small and the goals limited, so there is not much to do! But we will eventually post here ways that companies and individuals can help as allies.
