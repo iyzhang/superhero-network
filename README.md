@@ -49,7 +49,7 @@ researchers that fight against harassment and for a safe environment for everyon
   * Title & affiliation: PhD student at University of Washington
   * Research area: HCI, PL/SE (UIST, CSCW, CHI, OOPSLA)
   * Research focus: I work on developing new statistical analysis tools (e.g., domain-specific languages, interfaces) for researchers who may not be statistical experts. I also develop theories for how people analyze data and find ways to improve the validity of analyses. 
-  * Activism: I co-organize [Diverse Genders in Research Day](http://wrd.cs.washington.edu/) and have coordinated various mentorship activities for womxn at UW CSE. Years ago in undergrad, I helped start a [Girls Who Code](https://girlswhocode.com/) chapter at [John Early Middle School](https://johnearly.mnps.org/our_school/school_overview) in Nashville, TN. 
+  * Activism: My research aims to lower barriers to computing and data science. I also co-organize [Diverse Genders in Research Day](http://wrd.cs.washington.edu/) and have coordinated various mentorship activities for womxn at UW CSE. Years ago, I helped start a [Girls Who Code](https://girlswhocode.com/) chapter at [John Early Middle School](https://johnearly.mnps.org/our_school/school_overview) in Nashville, TN. 
   * Personal fun: I paint, mosaic, dance, and (very poorly) golf. 
   
 ### How To Help
