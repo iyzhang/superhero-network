@@ -46,6 +46,11 @@ researchers that fight against harassment and for a safe environment for everyon
 
 * [Elba Garza](elbagarza.com)
 * [Eunice Jun](https://homes.cs.washington.edu/~emjun/)
+  * Title & affiliation: PhD student at University of Washington
+  * Research area: HCI, PL/SE (UIST, CSCW, CHI, OOPSLA)
+  * Research focus: I work on developing new statistical analysis tools (e.g., domain-specific languages, interfaces) for researchers who may not be statistical experts. I also develop theories for how people analyze data and find ways to improve the validity of analyses. 
+  * Activism: I co-organize [Diverse Genders in Research Day](http://wrd.cs.washington.edu/) and have coordinated various mentorship activities for womxn at UW CSE. Years ago in undergrad, I helped start a [Girls Who Code](https://girlswhocode.com/) chapter at [John Early Middle School](https://johnearly.mnps.org/our_school/school_overview) in Nashville, TN. 
+  * Personal fun: I paint, mosaic, dance, and (very poorly) golf. 
   
 ### How To Help
 For now, I'm keeping the network extremely small and the goals limited, so there is not much to do! But we will eventually post here ways that companies and individuals can help as allies. Star the repository if you want to follow our journey.
