@@ -36,7 +36,7 @@ researchers that fight against harassment and for a safe environment for everyon
   * Title & Affiliation: Principal Researcher at Microsoft Research  
   * Research Area: Systems (SIGOPS, USENIX OSDI)
   * Research focus: I work on operating systems for kernel-bypass and other types of hardware accelerators in the datacenter. I have also worked on mobile systems, distributed systems and networking in the past.
-  * Activism: I'm the founder of Diverse Genders in Research Day, a day of technical talks by women and diverse genders for diverse genders at the University of Washington (and now others!). The idea behind the event is to recruit more undergraduates of diverse genders to research and PhDs by simply having a safe space to present awesome work and ask questions. Fill that leaky pipeline!!
+  * Activism: I'm the founder of [Diverse Genders in Research Day](http://wrd.cs.washington.edu/), a day of technical talks by women and diverse genders for diverse genders at the University of Washington (and now others!). The idea behind the event is to recruit more undergraduates of diverse genders to research and PhDs by simply having a safe space to present awesome work and ask questions. Fill that leaky pipeline!!
   * Personal fun: I love to cook and eat, so I'm always up for visiting a new restaurant or talking about a new cooking technique. I also weightlift, play tennis and skate, which are all excellent ways to learn how to fail (and sometimes fall on my face). 
 * [Sangeetha Abdu Jyothi](https://www.ics.uci.edu/~sabdujyo/)
 * [Neha Kumar](https://www.nehakumar.org/)
