@@ -30,37 +30,22 @@ researchers that fight against harassment and for a safe environment for everyon
   must be active on Twitter and/or other places that reach many PhD
   students.
   
-### Initial proposed tasks
-First steps include:
+### Founding Members
 
-1. Review harassment policies at major conferences that we attend
-   (each person reviews a different area from the one that they work
-   in).  Find what the concrete steps are for reporting/dealing with
-   harassment and whether they are easy to activate (e.g., if I as an
-   outside but seasoned researcher cannot find them, then there's a
-   problem).  Report suggestions back to research
-   communities/conferences to ensure consistency across areas.
+* [Irene Zhang](https://irenezhang.net)
+  * Title & Affiliation: Principal Researcher at Microsoft Research  
+  * Research Area: Systems (SIGOPS, USENIX OSDI)
+  * Research focus: I work on operating systems for kernel-bypass and other types of hardware accelerators in the datacenter. I have also worked on mobile systems, distributed systems and networking in the past.
+  * Activism: I'm the founder of Diverse Genders in Research Day, a day of technical talks by women and diverse genders for diverse genders at the University of Washington (and now others!). The idea behind the event is to recruit more undergraduates of diverse genders to research and PhDs by simply having a safe space to present awesome work and ask questions. Fill that leaky pipeline!!
+  * Personal fun: I love to cook and eat, so I'm always up for visiting a new restaurant or talking about a new cooking technique. I also weightlift, play tennis and skate, which are all excellent ways to learn how to fail (and sometimes fall on my face). 
+* [Sangeetha Abdu Jyothi](https://www.ics.uci.edu/~sabdujyo/)
+* [Neha Kumar](https://www.nehakumar.org/)
+* [Akshitha Sriraman](https://akshithasriraman.eecs.umich.edu/)
 
-2. Start a women's (diversity in genders?) social hour the day before
-   the conference starts.  MSR and other companies likely can sponsor this across
-   areas, so maybe we can rely on the outreach teams and conference organizers to implement
-   this.  We often have diversity workshops but they have a lot of
-   talks and not enough just socializing time.  We should have some
-   activities to ensure younger women not in the "in crowd" have a
-   chance to interact with more senior women, so maybe some
-   games/women researchers trivia?!
+### Members
 
-3. Discuss implementing an opt-in women-only block of rooms at the
-   conference. For social networking but also for safety (e.g., I've
-   had men at hotels follow me back to my floor in a creepy way).
-   Superheros serve as mentors, den mothers? Maybe have an open door
-   policy? Also, discuss safety measures for getting from airport to
-   hotel when some women arrive alone late at night, some hotels are
-   out of the way or in countries where it's not safe to travel alone
-   at night as a woman.  Even in Boston or Seattle, I would not walk
-   outside alone as a woman without being extremely careful, asking
-   women in their early 20s to navigate a foreign country alone is a
-   significant barrier to participation for many.
-
+* [Elba Garza](elbagarza.com)
+* [Eunice Jun](https://homes.cs.washington.edu/~emjun/)
+  
 ### How To Help
 For now, I'm keeping the network extremely small and the goals limited, so there is not much to do! But we will eventually post here ways that companies and individuals can help as allies. Star the repository if you want to follow our journey.
