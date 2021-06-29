@@ -44,7 +44,12 @@ researchers that fight against harassment and for a safe environment for everyon
 
 ### Members
 
-* [Elba Garza](elbagarza.com)
+* [Elba Garza](http://www.elbagarza.com) 
+  * Title & Affiliation: Graduate Student at Texas A&M University  
+  * Research Area: Computer Architecture (Memory Systems, Prediction)
+  * Research focus: I work in architectural front-end prediction, e.g. branch prediction, branch target buffer, instruction prefetching, instruction caching.
+  * Activism: I'm the co-founder of CASA, or the [Computer Architecture Student Association](http://www.comparchsa.org), an independent student-run organization with the express purpose of developing and fostering a positive and inviting student community within computer architecture. We try to host social events to let student gather and socialize, and help run events such as the recent [Diversity, Equity & Inclusion Reading Group](https://www.sigarch.org/advancing-and-promoting-dei-in-computer-architecture-summer-2021-reading-group/) for Summer 2021. 
+  * Personal fun: My husband and I like to metal detect to find coins, jewelry, and other lost treasure. We also collect coins, and are all-around OG nerds. And I wouldn't have it any other way!    
 * [Eunice Jun](https://homes.cs.washington.edu/~emjun/)
   * Title & affiliation: PhD student at University of Washington
   * Research area: HCI, PL/SE (UIST, CSCW, CHI, OOPSLA)
