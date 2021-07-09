@@ -48,6 +48,7 @@ researchers that fight against harassment and for a safe environment for everyon
 
 * [Neha Kumar](https://www.nehakumar.org/)
 * [Akshitha Sriraman](https://akshithasriraman.eecs.umich.edu/)
+* [Elena Glassman](https://glassmanlab.seas.harvard.edu/)
 * [Leilani Battle](https://www.cs.umd.edu/~leilani/bio.html)
 
 ### Junior Members (PhD Students)
