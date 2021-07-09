@@ -16,6 +16,8 @@ conferences.
 
 **H3.** The harassment policy should have a clear set of step that can
   easily be triggered by any attendee if they experience harassment.
+  
+**H4.** Every volunteer participant (e.g., PC chairs, members, panelist, speakers) has been vetted by the governing body (e.g., the [ACM incidents database](https://medium.com/sigchi/the-new-acm-violations-database-528f7d2693a0), the USENIX chair).
 
 ## Representation 
 These practices are designed to increase representation and visibility of minority groups at conferences.
