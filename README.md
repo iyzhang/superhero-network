@@ -30,7 +30,7 @@ researchers that fight against harassment and for a safe environment for everyon
   must be active on Twitter and/or other places that reach many PhD
   students.
   
-### Founding Members
+### Senior Members (post-PhD)
 
 * [Irene Zhang](https://irenezhang.net)
   * Title & Affiliation: Principal Researcher at Microsoft Research  
@@ -48,9 +48,9 @@ researchers that fight against harassment and for a safe environment for everyon
 
 * [Neha Kumar](https://www.nehakumar.org/)
 * [Akshitha Sriraman](https://akshithasriraman.eecs.umich.edu/)
+* [Leilani Battle](https://www.cs.umd.edu/~leilani/bio.html)
 
-### Members
-
+### Junior Members (PhD Students)
 * [Elba Garza](http://www.elbagarza.com) 
   * Title & Affiliation: Graduate Student at Texas A&M University  
   * Research Area: Computer Architecture (ISCA, MICRO, HPCA, ASPLOS)
