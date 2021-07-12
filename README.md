@@ -50,6 +50,7 @@ researchers that fight against harassment and for a safe environment for everyon
 * [Akshitha Sriraman](https://akshithasriraman.eecs.umich.edu/)
 * [Elena Glassman](https://glassmanlab.seas.harvard.edu/)
 * [Leilani Battle](https://www.cs.umd.edu/~leilani/bio.html)
+* [Daphne Yao](https://people.cs.vt.edu/danfeng/)
 
 ### Junior Members (PhD Students)
 * [Elba Garza](http://www.elbagarza.com) 
