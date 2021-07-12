@@ -56,6 +56,13 @@ researchers that fight against harassment and for a safe environment for everyon
 * [Elena Glassman](https://glassmanlab.seas.harvard.edu/)
 * [Leilani Battle](https://www.cs.umd.edu/~leilani/bio.html)
 * [Daphne Yao](https://people.cs.vt.edu/danfeng/)
+  * Title & Affiliation: Professor, Virginia Tech
+  * Research Area: Security and privacy (ACM CCS/ASIACCS, IEEE SecDev, IEEE S&P, ACSAC)
+  * Research focus: Building long-lasting cyber defenses, as well as machine learning for digital health, with a shared focus on accuracy and deployment
+  * Activism: Pointing out obstacles that STEM women face (including workplace sexual harassment) and working towards correcting and eventually eliminating them
+  * Personal fun: Singing, shopping, walking, and watching TV
+
+
 
 ### Junior Members (PhD Students)
 * [Elba Garza](http://www.elbagarza.com) 
