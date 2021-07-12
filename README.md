@@ -18,7 +18,7 @@ researchers that fight against harassment and for a safe environment for everyon
   and help fix things.
 
 * **Early-stage:** The members must be young enough to be approachable and to have recently
-  experienced harassment themselves (no Turing award winners!).
+  experienced harassment themselves (no Turing award winners!). As people become more senior, they are subjected to less harassment, more likely to think that it is not a problem in the community and more likely to know the harasser. Regardless of good intentions, it becomes harder to empathize with new members of the community facing harassment.
   
 * **Influential:** Members must be senior enough to enact change (perhaps
   just before or after tenure?) or know allies/mentors that can implement recommendations.  They must have enough connections to the community be believed by a
