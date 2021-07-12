@@ -48,6 +48,11 @@ researchers that fight against harassment and for a safe environment for everyon
 
 * [Neha Kumar](https://www.nehakumar.org/)
 * [Akshitha Sriraman](https://akshithasriraman.eecs.umich.edu/)
+  * Title & Affiliation: Incoming Assistant Professor at Carnegie Mellon University
+  * Research Area: Computer architecture (ISCA, ASPLOS, MICRO, HPCA) and Operating Systems (OSDI, SOSP)
+  * Research Focus: My research bridges computer architecture and software systems, demonstrating the importance of that bridge in realizing efficient hyperscale web services via solutions that span the systems stack.
+  * Activism: I have been actively working towards improving the enrollment and retention of women in CS. For example, I am actively involved in the Women in Computer Architecture (WiCArch) group, having started the WiCArch webinar series and mentorship program.
+  * Personal fun: I love going on long hikes with my dog (who weighs about four pounds less than me). I also started doing yoga during the pandemic, which has become a fun everyday activity.
 * [Elena Glassman](https://glassmanlab.seas.harvard.edu/)
 * [Leilani Battle](https://www.cs.umd.edu/~leilani/bio.html)
 * [Daphne Yao](https://people.cs.vt.edu/danfeng/)
