@@ -52,15 +52,23 @@ researchers that fight against harassment and for a safe environment for everyon
   * Research Focus: I was trained in computer science, design, and ethnography at UC Berkeley and Stanford University. This training shapes my work, which engages participatory, assets-based approaches towards technology design for/with communities that have historically been underserved. 
   * Activism: I am unreasonably passionate about community-building, and this is what much of my role as President of [SIGCHI](http://sigchi.org/) entails—strengthening our ties as a global HCI community and expanding participation equitably. As Chair of [ACM’s Future of Computing Academy (ACM FCA)](http://www.acm.org/fca), I lead a group of committed computer scientists from across the world, aiming to maximize the impact of computing. As part of my FCA activity, I came to co-host the [X4D Talks](https://x4d.org/), a monthly speaker series that aims to bring 4/5 speakers to present diverse takes on a topic of common interest across research/practice communities that focus on computing and development (or “4D”), e.g., the Future of Work (in February 2021) and Sustainability and Development (in March 2021). I have also been an active organizer and proponent of the [HCI Across Borders](http://hcixb.org/) event series since co-founding it in 2015, which has aimed to promote across-borders collaboration in HCI through the years.
 
-
 * [Akshitha Sriraman](https://akshithasriraman.eecs.umich.edu/)
   * Title & Affiliation: Incoming Assistant Professor at Carnegie Mellon University
   * Research Area: Computer architecture (ISCA, ASPLOS, MICRO, HPCA) and Operating Systems (OSDI, SOSP)
   * Research Focus: My research bridges computer architecture and software systems, demonstrating the importance of that bridge in realizing efficient hyperscale web services via solutions that span the systems stack.
   * Activism: I have been actively working towards improving the enrollment and retention of women in CS. For example, I am actively involved in the Women in Computer Architecture (WiCArch) group, having started the WiCArch webinar series and mentorship program.
   * Personal fun: I love going on long hikes with my dog (who weighs about four pounds less than me). I also started doing yoga during the pandemic, which has become a fun everyday activity.
+
 * [Elena Glassman](https://glassmanlab.seas.harvard.edu/)
+  * Title & Affiliation: I am an Assistant Professor of Computer Science at the Harvard Paulson School of Engineering & Applied Sciences and the Stanley A. Marks & William H. Marks Professor at the Radcliffe Institute for Advanced Study.
+  * Research Area: Human-computer interaction 
+  * Research Focus: I design, build and evaluate systems for comprehending and interacting with population-level structure and trends in large code and data corpora.
+
 * [Leilani Battle](https://www.cs.umd.edu/~leilani/bio.html)
+  * Title & Affiliation: I am an Assistant Professor in the Paul G. Allen School for Computer Science and Engineering. I was previously an Assistant Professor at the University of Maryland, College Park, where I led the [Battle Data Lab](https://battle-data-lab.cs.umd.edu/).
+  * Research Area: My research interests focus on developing interactive data-intensive systems that can aid analysts in performing complex data exploration and analysis.
+  * Research Focus: My current research is anchored in the field of databases, but utilizes research methodology and techniques from HCI and visualization to integrate data processing (databases) with interactive interfaces (HCI, visualization).
+
 * [Daphne Yao](https://people.cs.vt.edu/danfeng/)
   * Title & Affiliation: Professor, Virginia Tech
   * Research Area: Security and privacy (ACM CCS/ASIACCS, IEEE SecDev, IEEE S&P, ACSAC)
