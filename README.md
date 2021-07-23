@@ -85,12 +85,20 @@ researchers that fight against harassment and for a safe environment for everyon
   * Research focus: I work in architectural front-end prediction, e.g. branch prediction, branch target buffer, instruction prefetching, instruction caching.
   * Activism: I'm the co-founder of CASA, or the [Computer Architecture Student Association](http://www.comparchsa.org), an independent student-run organization with the express purpose of developing and fostering a positive and inviting student community within computer architecture. We try to host social events to let student gather and socialize, mentoring activities in and out of conferences, and help run initiatives such as the recent [Diversity, Equity & Inclusion Reading Group](https://www.sigarch.org/advancing-and-promoting-dei-in-computer-architecture-summer-2021-reading-group/) for Summer 2021. 
   * Personal fun: My husband and I like to metal detect to find coins, jewelry, and other lost treasure. We also collect coins, and are all-around OG nerds. And I wouldn't have it any other way!    
+
 * [Eunice Jun](https://homes.cs.washington.edu/~emjun/)
   * Title & affiliation: PhD student at University of Washington
   * Research area: HCI, PL/SE (UIST, CSCW, CHI, OOPSLA)
   * Research focus: I work on developing new statistical analysis tools (e.g., domain-specific languages, interfaces) for researchers who may not be statistical experts. I also develop theories for how people analyze data and find ways to improve the validity of analyses. 
   * Activism: My research aims to lower barriers to computing and data science. I also co-organize [Diverse Genders in Research Day](http://wrd.cs.washington.edu/) and have coordinated various mentorship activities for womxn at UW CSE. Years ago, I helped start a [Girls Who Code](https://girlswhocode.com/) chapter at [John Early Middle School](https://johnearly.mnps.org/our_school/school_overview) in Nashville, TN. 
   * Personal fun: I paint, mosaic, dance, and (very poorly) golf. 
+
+* [Swati Goswami](https://www.linkedin.com/in/swatigirigoswami/)
+  * Title & Affiliation: PhD student at University of British Columbia
+  * Research Area: Datacenter performance, programmable networking accelerators, Storage systems
+  * Research Focus: I work on using emerging hardware devices such as programmable switches to optimize datacenter performance.
+  * Activism: I have actively volunteered with several organizations as an instructor / teaching assistant to encourage women to pursue a career in STEM. I also collaborate with the Womxn in CS group at UBC to organize educational events for the students.
+  * Personal fun: I love reading novels, cooking and listening to music. I also enjoy the nature and go for long walks on the UBC campus in my free time.
   
 ### How To Help
 For now, I'm keeping the network extremely small and the goals limited, so there is not much to do! But we will eventually post here ways that companies and individuals can help as allies. Star the repository if you want to follow our journey.
