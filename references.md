@@ -7,3 +7,4 @@ I've found many references and diverse efforts while starting up this effort, wh
 * [ACM Incident database](https://sigchi.org/2021/05/the-new-acm-violations-database/)
 * [Mozilla Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
 * [National Academy of Science: Interventions for Preventing Sexual Harassment](https://www.nap.edu/resource/24994/Interventions%20for%20Preventing%20Sexual%20Harassment%20final.pdf)
+* [Women In Tech: Addressing the Root Causes of Attrition](http://edge.berkeley.edu/wp-content/uploads/2017/08/WomenInTech.pdf)
