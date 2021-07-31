@@ -8,3 +8,6 @@ I've found many references and diverse efforts while starting up this effort, wh
 * [Mozilla Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
 * [National Academy of Science: Interventions for Preventing Sexual Harassment](https://www.nap.edu/resource/24994/Interventions%20for%20Preventing%20Sexual%20Harassment%20final.pdf)
 * [Women In Tech: Addressing the Root Causes of Attrition](http://edge.berkeley.edu/wp-content/uploads/2017/08/WomenInTech.pdf)
+
+Research Articles:
+* [The leaky pipeline and Women of Color](https://psycnet.apa.org/fulltext/2019-71055-001.html)
