@@ -11,3 +11,4 @@ I've found many references and diverse efforts while starting up this effort, wh
 * [Big study on the Leaky Pipeline](https://leakytechpipeline.com/wp-content/themes/kapor/pdf/KC18001_report_v6.pdf)
 Research Articles:
 * [The leaky pipeline and Women of Color](https://psycnet.apa.org/fulltext/2019-71055-001.html)
+* [Open-source Callisto code for anonymous incident reporting](https://github.com/project-callisto/callisto-core)
