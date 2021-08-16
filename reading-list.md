@@ -23,3 +23,6 @@ Now with the problem of sexual harassment in computing explained...
 * [Ten Strategies to Reduce Gender Inequality at Scientific Conferences by Sardelis et al.](https://doi.org/10.3389/fmars.2017.00231)
 * [Harassment at conferences: will #MeToo momentum translate to real change? by Nina Flores](https://doi.org/10.1080/09540253.2019.1633462)
 * [Extending feminist pedagogy in conferences: inspiration from Theatre of the Oppressed by Jyothsna L. Belliappa](https://doi.org/10.1080/09540253.2019.1646412)
+### Groups Doing Work On This
+* [WIASN: Women in Academia Support Network](https://www.wiasn.com/)
+* [500 Women Scientists: Inclusive Scientific Meetings](https://500womenscientists.org/inclusive-scientific-meetings)
