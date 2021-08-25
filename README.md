@@ -76,6 +76,12 @@ researchers that fight against harassment and for a safe environment for everyon
   * Activism: Pointing out obstacles that STEM women face (including workplace sexual harassment) and working towards correcting and eventually eliminating them
   * Personal fun: Singing, shopping, walking, and watching TV
 
+* [Elissa Redmiles](https://elissaredmiles.com/)
+  * Title & Affiliation: Faculty Member & Research Group Leader, Max Planck Institute for Software Systems
+  * Research Area: Security & HCI/Social Science (USENIX Security, IEEE S&P, ACM CCS, ACM CHI, WWW)
+  * Research focus: I work on digital security, privacy, and safety for end-users and marginalized groups (low-ses populations, sex workers, etc.). 
+  * Activism: I've run a number of CS education and CS curriculum development initiatives for under-represented groups. My research group also specifically focuses on developing the careers of marginalized researchers (marginalized by gender, race/ethnicity, past employment e.g., in sex work).
+  * Personal fun: I do a lot of Russian Kettlebells/Olympic Barbell, I'm originally from Colorado and love to hike. I cake decorate and once made a cake shaped like a Patron tequila bottle. I also have a giant fluffy dog, after whom an R package was named (https://github.com/seankross/toffee).
 
 
 ### Junior Members (PhD Students)
