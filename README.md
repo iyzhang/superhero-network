@@ -18,7 +18,7 @@ researchers that fight against harassment and for a safe environment for everyon
   and help fix things.
 
 * **Early-stage:** The members must be young enough to be approachable and to have recently
-  experienced harassment themselves (no Turing award winners!).
+  experienced harassment themselves (no Turing award winners!). This makes it easier for us to connect with and mentor people who might have experienced harassment, since they are likely to be grad students or younger.
   
 * **Influential:** Members must be senior enough to enact change (perhaps
   just before or after tenure?) or know allies/mentors that can implement recommendations.  They must have enough connections to the community be believed by a
@@ -47,9 +47,42 @@ researchers that fight against harassment and for a safe environment for everyon
   * Personal fun: I love traveling and hiking. Swimming has a therapeutic effect on me when I am stressed about various things. I also enjoy reading. Thanks to the pandemic, I have recently revived my long-lost hobbies from childhood. I am learning Indian classical music and dance.   
 
 * [Neha Kumar](https://www.nehakumar.org/)
+  * Title & Affiliation: Associate Professor at Georgia Tech, where I am jointly appointed at the Sam Nunn School of International Affairs and the School of Interactive Computing. 
+  * Research Area: I work at the intersection of human-centered computing and global development and I obtained my Ph.D. in 2013 from UC Berkeley’s School of Information, specializing in Human-Computer Interaction (HCI). At Georgia Tech, I proudly lead the TanDEm (short for Technology and Design towards “Empowerment”) lab. Much of our research is focused on health and wellbeing on the margins, centering topics such as gender, stigma, and knowledge production ([read our work](https://nehakumar.org/research)). Prior and current TanDEm students are committed to changing the world—at [inspirit](http://inspiritvr.com/) to continue the work we started on virtual reality and learning, and at [MakerGhat](http://www.makerghat.org/) towards fostering community knowledge networks in under-resourced parts of Mumbai, India.
+  * Research Focus: I was trained in computer science, design, and ethnography at UC Berkeley and Stanford University. This training shapes my work, which engages participatory, assets-based approaches towards technology design for/with communities that have historically been underserved. 
+  * Activism: I am unreasonably passionate about community-building, and this is what much of my role as President of [SIGCHI](http://sigchi.org/) entails—strengthening our ties as a global HCI community and expanding participation equitably. As Chair of [ACM’s Future of Computing Academy (ACM FCA)](http://www.acm.org/fca), I lead a group of committed computer scientists from across the world, aiming to maximize the impact of computing. As part of my FCA activity, I came to co-host the [X4D Talks](https://x4d.org/), a monthly speaker series that aims to bring 4/5 speakers to present diverse takes on a topic of common interest across research/practice communities that focus on computing and development (or “4D”), e.g., the Future of Work (in February 2021) and Sustainability and Development (in March 2021). I have also been an active organizer and proponent of the [HCI Across Borders](http://hcixb.org/) event series since co-founding it in 2015, which has aimed to promote across-borders collaboration in HCI through the years.
+
 * [Akshitha Sriraman](https://akshithasriraman.eecs.umich.edu/)
+  * Title & Affiliation: Incoming Assistant Professor at Carnegie Mellon University
+  * Research Area: Computer architecture (ISCA, ASPLOS, MICRO, HPCA) and Operating Systems (OSDI, SOSP)
+  * Research Focus: My research bridges computer architecture and software systems, demonstrating the importance of that bridge in realizing efficient hyperscale web services via solutions that span the systems stack.
+  * Activism: I have been actively working towards improving the enrollment and retention of women in CS. For example, I am actively involved in the Women in Computer Architecture (WiCArch) group, having started the WiCArch webinar series and mentorship program.
+  * Personal fun: I love going on long hikes with my dog (who weighs about four pounds less than me). I also started doing yoga during the pandemic, which has become a fun everyday activity.
+
 * [Elena Glassman](https://glassmanlab.seas.harvard.edu/)
+  * Title & Affiliation: I am an Assistant Professor of Computer Science at the Harvard Paulson School of Engineering & Applied Sciences and the Stanley A. Marks & William H. Marks Professor at the Radcliffe Institute for Advanced Study.
+  * Research Area: Human-computer interaction 
+  * Research Focus: I design, build and evaluate systems for comprehending and interacting with population-level structure and trends in large code and data corpora.
+
 * [Leilani Battle](https://www.cs.umd.edu/~leilani/bio.html)
+  * Title & Affiliation: I am an Assistant Professor in the Paul G. Allen School for Computer Science and Engineering. I was previously an Assistant Professor at the University of Maryland, College Park, where I led the [Battle Data Lab](https://battle-data-lab.cs.umd.edu/).
+  * Research Area: My research interests focus on developing interactive data-intensive systems that can aid analysts in performing complex data exploration and analysis.
+  * Research Focus: My current research is anchored in the field of databases, but utilizes research methodology and techniques from HCI and visualization to integrate data processing (databases) with interactive interfaces (HCI, visualization).
+
+* [Daphne Yao](https://people.cs.vt.edu/danfeng/)
+  * Title & Affiliation: Professor, Virginia Tech
+  * Research Area: Security and privacy (ACM CCS/ASIACCS, IEEE SecDev, IEEE S&P, ACSAC)
+  * Research focus: Building long-lasting cyber defenses, as well as machine learning for digital health, with a shared focus on accuracy and deployment
+  * Activism: Pointing out obstacles that STEM women face (including workplace sexual harassment) and working towards correcting and eventually eliminating them
+  * Personal fun: Singing, shopping, walking, and watching TV
+
+* [Elissa Redmiles](https://elissaredmiles.com/)
+  * Title & Affiliation: Faculty Member & Research Group Leader, Max Planck Institute for Software Systems
+  * Research Area: Security & HCI/Social Science (USENIX Security, IEEE S&P, ACM CCS, ACM CHI, WWW)
+  * Research focus: I work on digital security, privacy, and safety for end-users and marginalized groups (low-ses populations, sex workers, etc.). 
+  * Activism: I've run a number of CS education and CS curriculum development initiatives for under-represented groups. My research group also specifically focuses on developing the careers of marginalized researchers (marginalized by gender, race/ethnicity, past employment e.g., in sex work).
+  * Personal fun: I do a lot of Russian Kettlebells/Olympic Barbell, I'm originally from Colorado and love to hike. I cake decorate and once made a cake shaped like a Patron tequila bottle. I also have a giant fluffy dog, after whom an R package was named (https://github.com/seankross/toffee).
+
 
 ### Junior Members (PhD Students)
 * [Elba Garza](http://www.elbagarza.com) 
@@ -58,12 +91,20 @@ researchers that fight against harassment and for a safe environment for everyon
   * Research focus: I work in architectural front-end prediction, e.g. branch prediction, branch target buffer, instruction prefetching, instruction caching.
   * Activism: I'm the co-founder of CASA, or the [Computer Architecture Student Association](http://www.comparchsa.org), an independent student-run organization with the express purpose of developing and fostering a positive and inviting student community within computer architecture. We try to host social events to let student gather and socialize, mentoring activities in and out of conferences, and help run initiatives such as the recent [Diversity, Equity & Inclusion Reading Group](https://www.sigarch.org/advancing-and-promoting-dei-in-computer-architecture-summer-2021-reading-group/) for Summer 2021. 
   * Personal fun: My husband and I like to metal detect to find coins, jewelry, and other lost treasure. We also collect coins, and are all-around OG nerds. And I wouldn't have it any other way!    
+
 * [Eunice Jun](https://homes.cs.washington.edu/~emjun/)
   * Title & affiliation: PhD student at University of Washington
   * Research area: HCI, PL/SE (UIST, CSCW, CHI, OOPSLA)
   * Research focus: I work on developing new statistical analysis tools (e.g., domain-specific languages, interfaces) for researchers who may not be statistical experts. I also develop theories for how people analyze data and find ways to improve the validity of analyses. 
   * Activism: My research aims to lower barriers to computing and data science. I also co-organize [Diverse Genders in Research Day](http://wrd.cs.washington.edu/) and have coordinated various mentorship activities for womxn at UW CSE. Years ago, I helped start a [Girls Who Code](https://girlswhocode.com/) chapter at [John Early Middle School](https://johnearly.mnps.org/our_school/school_overview) in Nashville, TN. 
   * Personal fun: I paint, mosaic, dance, and (very poorly) golf. 
+
+* [Swati Goswami](https://www.linkedin.com/in/swatigirigoswami/)
+  * Title & Affiliation: PhD student at University of British Columbia
+  * Research Area: Datacenter performance, programmable networking accelerators, Storage systems
+  * Research Focus: I work on using emerging hardware devices such as programmable switches to optimize datacenter performance.
+  * Activism: I have actively volunteered with several organizations as an instructor / teaching assistant to encourage women to pursue a career in STEM. I also collaborate with the Womxn in CS group at UBC to organize educational events for the students.
+  * Personal fun: I love reading novels, cooking and listening to music. I also enjoy the nature and go for long walks on the UBC campus in my free time.
   
 ### How To Help
 For now, I'm keeping the network extremely small and the goals limited, so there is not much to do! But we will eventually post here ways that companies and individuals can help as allies. Star the repository if you want to follow our journey.
