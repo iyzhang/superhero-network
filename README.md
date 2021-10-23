@@ -1,7 +1,7 @@
 # The Superhero Network
 
 The Superhero Network is an unaffiliated group of visible, influential and early-stage women CS
-researchers that fight against harassment and for a safe environment for everyone in the research community.  The focus will initially be on women, but I would love to eventually expand this to other underrepresented minorities and all PhD students.  The committee will have the following important features:
+researchers that fight against harassment and for a safe environment for everyone in the research community.  The focus will initially be on women, but I would love to eventually expand this to other underrepresented minorities and all PhD students.  The committee has the following important features:
 
 * **Unaffiliated:** The group will not be sponsored or affiliated by any
   other organization to avoid conflicts of interest.  As demonstrated
@@ -29,6 +29,9 @@ researchers that fight against harassment and for a safe environment for everyon
   promoting the processes we put in place to cope with harassment, so
   must be active on Twitter and/or other places that reach many PhD
   students.
+  
+### Our Mission
+We use research and expertise for prevention and intervention of all forms of harassment in the research community.  We define harassment broadly as any unwelcome behavior that harms the participation of marginalized communities, whether they are minorities or PhD students.  Our first two projects are on conference safety and quantifying harassment and reviewing the effectiveness of codes of conduct in the research community.
   
 ### Senior Members (post-PhD)
 
