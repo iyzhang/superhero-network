@@ -13,3 +13,6 @@ Research Articles:
 * [The leaky pipeline and Women of Color](https://psycnet.apa.org/fulltext/2019-71055-001.html)
 * [Open-source Callisto code for anonymous incident reporting](https://github.com/project-callisto/callisto-core)
 * [Transparency of the ACM Incident Database](https://interactions.acm.org/blog/view/where-is-the-transparency-of-the-new-acm-violations-database)
+* [All In Initiative](https://allinopensource.org/)
+* [Linux Foundation Diversity survey](https://www.linuxfoundation.org/press-release/linux-foundation-launches-2021-open-source-diversity-equity-and-inclusion-survey/)
+* [Github Diversity Survey result](https://github.com/about/diversity/report)
