@@ -12,3 +12,4 @@ I've found many references and diverse efforts while starting up this effort, wh
 Research Articles:
 * [The leaky pipeline and Women of Color](https://psycnet.apa.org/fulltext/2019-71055-001.html)
 * [Open-source Callisto code for anonymous incident reporting](https://github.com/project-callisto/callisto-core)
+* [Transparency of the ACM Incident Database](https://interactions.acm.org/blog/view/where-is-the-transparency-of-the-new-acm-violations-database)
