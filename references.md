@@ -16,3 +16,5 @@ Research Articles:
 * [All In Initiative](https://allinopensource.org/)
 * [Linux Foundation Diversity survey](https://www.linuxfoundation.org/press-release/linux-foundation-launches-2021-open-source-diversity-equity-and-inclusion-survey/)
 * [Github Diversity Survey result](https://github.com/about/diversity/report)
+* [Linux Foundation Survey results](https://www.linuxfoundation.org/wp-content/uploads/LFResearch_DEISurvey_ResultsDeck_121321.pdf)
+* [Linux Foundation Survey questions]()
