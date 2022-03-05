@@ -86,6 +86,12 @@ We use research and expertise for prevention and intervention of all forms of ha
   * Activism: I've run a number of CS education and CS curriculum development initiatives for under-represented groups. My research group also specifically focuses on developing the careers of marginalized researchers (marginalized by gender, race/ethnicity, past employment e.g., in sex work).
   * Personal fun: I do a lot of Russian Kettlebells/Olympic Barbell, I'm originally from Colorado and love to hike. I cake decorate and once made a cake shaped like a Patron tequila bottle. I also have a giant fluffy dog, after whom an R package was named (https://github.com/seankross/toffee).
 
+* [Neeraja J. Yadwadkar](https://sites.utexas.edu/neeraja/)
+  * Title & Affiliation: Incoming Assistant Professor, University of Texas at Austin
+  * Research Area: Cloud Computing Systems and Machine Learning (ML)
+  * Research focus: Most of my research straddles the boundaries of Systems and ML. Advances in systems, machine learning, and hardware architectures are about to launch a new era in which we can use the entire cloud as a computer. New ML techniques are being developed for solving complex resource management problems in systems. Similarly, systems research is getting influenced by properties of emerging ML algorithms and evolving hardware architectures. Bridging these complementary fields, my research focuses on using and developing ML techniques for systems and building systems for ML.
+  * Activism: I care deeply about diversity and inclusion at all the levels: in my classroom, in my upcoming research group, and in the broader research community. For example, I served as the D&I chair for ACM SoCC'21 with the focus on creating a welcoming environment for eveyone at the conference.
+  * Personal fun: I am a Kathak dancer and teacher. I primarily teach 5-9 year olds! Kathak is an Indian classical dance form that is at least 2000 years old!
 
 ### Junior Members (PhD Students)
 * [Elba Garza](http://www.elbagarza.com) 
