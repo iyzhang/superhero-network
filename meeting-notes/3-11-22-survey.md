@@ -11,4 +11,4 @@
 ## Next step
 * (Daphne) Email ACM introduction to Elisa Bertino
 * (Irene) Schedule meeting with Demetris and CHAOSS?? to start writing survey
-* (Irene) Email Margret Martonosi about support from NSF
+* (Irene) Email Margaret Martonosi about support from NSF
