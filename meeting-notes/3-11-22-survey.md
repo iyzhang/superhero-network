@@ -8,3 +8,7 @@
 * Follow-up to USENIX meeting
 * Discussion of further conferences we want to target (individual SIGs? Go to ACM?)
 * Coordination on industry support
+## Next step
+* (Daphne) Email ACM introduction to Elisa Bertino
+* (Irene) Schedule meeting with Demetris and CHAOSS?? to start writing survey
+* (Irene) Email Margret Martonosi about support from NSF
