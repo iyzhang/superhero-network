@@ -18,3 +18,4 @@ Research Articles:
 * [Github Diversity Survey result](https://github.com/about/diversity/report)
 * [Linux Foundation Survey results](https://www.linuxfoundation.org/wp-content/uploads/LFResearch_DEISurvey_ResultsDeck_121321.pdf)
 * [Linux Foundation Survey questions]()
+* [How we are making codes of conduct enforcement real and scaling it](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)
