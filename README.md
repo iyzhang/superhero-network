@@ -31,7 +31,10 @@ researchers that fight against harassment and for a safe environment for everyon
   students.
   
 ### Our Mission
-We use research and expertise for prevention and intervention of all forms of harassment in the research community.  We define harassment broadly as any unwelcome behavior that harms the participation of marginalized communities, whether they are minorities or PhD students.  Our first two projects are on conference safety and quantifying harassment and reviewing the effectiveness of codes of conduct in the research community.
+We use research and expertise for prevention and intervention of all forms of harassment in the research community.  We define harassment broadly as any unwelcome behavior that harms the participation of marginalized communities, whether they are underrepresented minorities or PhD students. We are using a data-driven approach to improve conference environments and curb academic bullying. 
+
+### Our projects
+Our first project is a longitudinal study of harassment at CS research conferences. We are running this survey annually in coorperation with All In and CHAOSS, two leaders in DEI in open-source communities. We have launched the survey across all USENIX conferences and aim to do so across ACM and SafeToC conferences in the future.
   
 ### Senior Members (post-PhD)
 
