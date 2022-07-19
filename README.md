@@ -35,7 +35,8 @@ We use research and expertise for prevention and intervention of all forms of ha
 
 ### Our projects
 Our first project is a longitudinal study of harassment at CS research conferences. We are running this survey annually in coorperation with All In and CHAOSS, two leaders in DEI in open-source communities. We have launched the survey across all USENIX conferences and aim to do so across ACM and SafeToC conferences in the future.
-  
+The data from this survey will drive improvements in enforceable codes of conduct and other inclusive activities at conferences. We will continue to run the conference every year to better understand the impact of improvements on non-inclusive behavior.
+
 ### Senior Members (post-PhD)
 
 * [Irene Zhang](https://irenezhang.net)
