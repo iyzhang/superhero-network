@@ -15,6 +15,8 @@
 Now with the problem of sexual harassment in computing explained...
 
 ## How To Make Conferences Safe
+### Training
+* https://github.com/microsoft/OSPO-Courses/tree/main/inclusive-governance
 ### Web Articles
 * [Fifteen tips to make scientific conferences more welcoming for everyone by Jess Wade](https://physicsworld.com/a/fifteen-tips-to-make-scientific-conferences-more-welcoming-for-everyone/)
 ### Scholarly Work/Articles
