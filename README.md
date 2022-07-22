@@ -4,10 +4,7 @@ The Superhero Network is an unaffiliated group of visible, influential and early
 researchers that fight against harassment and for a safe environment for everyone in the research community.  The focus will initially be on women, but I would love to eventually expand this to other underrepresented minorities and all PhD students.  The committee has the following important features:
 
 * **Unaffiliated:** The group will not be sponsored or affiliated by any
-  other organization to avoid conflicts of interest.  As demonstrated
-  by Sangeetha Jyothi's recent interactions with SIGCOMM CARES and any
-  Title IX investigation, the committee cannot try to protect its
-  sponsoring org.
+  other organization to avoid conflicts of interest. 
 
 * **Diverse:** To avoid further conflicts of interest, we will never
   assign someone to help/give recommendations who is in the same area
