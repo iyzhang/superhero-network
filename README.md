@@ -88,7 +88,6 @@ The data from this survey will drive improvements in enforceable codes of conduc
   * Activism: I care deeply about diversity and inclusion at all the levels: in my classroom, in my upcoming research group, and in the broader research community. For example, I served as the D&I chair for ACM SoCC'21 with the focus on creating a welcoming environment for eveyone at the conference.
   * Personal fun: I am a Kathak dancer and teacher. I primarily teach 5-9 year olds! Kathak is an Indian classical dance form that is at least 2000 years old!
 
-### Junior Members (PhD Students)
 * [Elba Garza](http://www.elbagarza.com) 
   * Title & Affiliation: Graduate Student at Texas A&M University  
   * Research Area: Computer Architecture (ISCA, MICRO, HPCA, ASPLOS)
@@ -96,6 +95,7 @@ The data from this survey will drive improvements in enforceable codes of conduc
   * Activism: I'm the co-founder of CASA, or the [Computer Architecture Student Association](http://www.comparchsa.org), an independent student-run organization with the express purpose of developing and fostering a positive and inviting student community within computer architecture. We try to host social events to let student gather and socialize, mentoring activities in and out of conferences, and help run initiatives such as the recent [Diversity, Equity & Inclusion Reading Group](https://www.sigarch.org/advancing-and-promoting-dei-in-computer-architecture-summer-2021-reading-group/) for Summer 2021. 
   * Personal fun: My husband and I like to metal detect to find coins, jewelry, and other lost treasure. We also collect coins, and are all-around OG nerds. And I wouldn't have it any other way!    
 
+### Junior Members (PhD Students)
 * [Eunice Jun](https://homes.cs.washington.edu/~emjun/)
   * Title & affiliation: PhD student at University of Washington
   * Research area: HCI, PL/SE (UIST, CSCW, CHI, OOPSLA)
