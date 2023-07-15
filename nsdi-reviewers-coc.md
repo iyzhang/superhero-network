@@ -68,8 +68,10 @@ Examples of unacceptable behavior include:
   other reviewers that might disagree with you.
 
 * Bullying authors or reviewers. Using your power as a PC member to
-  force authors or reviewers to make changes to their work or
-  undertake any actions that makes authors or reviewers uncomfortable.
+  pressure authors or reviewers to take actions unwillingly or
+  unwillingly make changes to their work. In cases of respectful but
+  seemingly unresolvable disagreement, the parties involved should
+  meet with the program chairs.
 
 * Public or private harassment of all participants. Please keep the
   entire submission, reviewing and shepherding process civil.

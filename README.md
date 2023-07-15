@@ -1,3 +1,45 @@
+# Projects
+
+## CS Climate Survey
+
+We are currently performing a longitudinal study of harassment at CS
+conferences. We have completed a pilot year collecting data at USENIX
+conferences and are collecting data from ACM conferences this year. If
+you are interested in running the survey, contact [Irene
+Zhang](mailto:irene.zhang@microsoft.com), Daniel Berger [Daniel
+Berger](mailto:daniel.berger@microsoft.com) or [Elizabeth
+Barron](mailto:elizabeth@eb-tc.com). Some resources on this survey:
+
+* [Initial report](initial-results.pdf)
+* [Instructions on running the
+  survey](climate-survey-conference-guide.pdf)
+* [Survey questions](climate-survey.pdf)
+
+## Improving Codes of Conduct
+
+We are currently redesigning the USENIX code of conduct and running a
+series of town halls to gather input from the community. These efforts
+are entirely designed around Emma Irwin's work on enforceable codes of
+conduct. Some resources:
+
+* [How we are making Codes of Conduct Enforcement Real -- and Scaling
+  It](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)
+* [Code of Conduct and Inclusive Governance Learning Course)[https://github.com/microsoft/OSPO-Courses/tree/main/inclusive-governance)
+
+## Reviewers Code of Conduct
+
+We have started a Reviewers Code of Conduct for NSDI, based on
+experiences of members of the Superhero network. Here is the initial
+CoC that we required all NSDI PC members to sign this year:
+
+* [NSDI CoC](nsdi-reviewers-coc.md)
+
+We aim to make the CoC enforceable next year and expand it to other
+USENIX conferences. We will also deploy an authors' CoC, given that
+sometimes the power dynamic can be switched where authors have control
+over the careers of reviewers and other participants in the reviewing
+process. 
+
 # The Superhero Network
 
 The Superhero Network is an unaffiliated group of visible, influential and early-stage women CS
@@ -29,10 +71,6 @@ researchers that fight against harassment and for a safe environment for everyon
   
 ### Our Mission
 We use research and expertise for prevention and intervention of all forms of harassment in the research community.  We define harassment broadly as any unwelcome behavior that harms the participation of marginalized communities, whether they are underrepresented minorities or PhD students. We are using a data-driven approach to improve conference environments and curb academic bullying. 
-
-### Our projects
-Our first project is a longitudinal study of harassment at CS research conferences. We are running this survey annually in coorperation with All In and CHAOSS, two leaders in DEI in open-source communities. We have launched the survey across all USENIX conferences and aim to do so across ACM and SafeToC conferences in the future.
-The data from this survey will drive improvements in enforceable codes of conduct and other inclusive activities at conferences. We will continue to run the conference every year to better understand the impact of improvements on non-inclusive behavior.
 
 ### Senior Members (post-PhD)
 
