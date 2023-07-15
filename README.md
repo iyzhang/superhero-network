@@ -10,10 +10,9 @@ Zhang](mailto:irene.zhang@microsoft.com), Daniel Berger [Daniel
 Berger](mailto:daniel.berger@microsoft.com) or [Elizabeth
 Barron](mailto:elizabeth@eb-tc.com). Some resources on this survey:
 
-* [Initial report](initial-results.pdf)
-* [Instructions on running the
-  survey](climate-survey-conference-guide.pdf)
-* [Survey questions](climate-survey.pdf)
+* [CS Climate Survey Pilot Year Initial report](initial-results.pdf)
+* [Survey Deployment Instructions for Conference Organizers](climate-survey-conference-guide.pdf)
+* [Climate Survey Questions](climate-survey.pdf)
 
 ## Improving Codes of Conduct
 
@@ -24,7 +23,7 @@ conduct. Some resources:
 
 * [How we are making Codes of Conduct Enforcement Real -- and Scaling
   It](https://medium.com/mozilla-open-innovation/how-were-making-code-of-conduct-enforcement-real-and-scaling-it-3e382cf94415)
-* [Code of Conduct and Inclusive Governance Learning Course)[https://github.com/microsoft/OSPO-Courses/tree/main/inclusive-governance)
+* [Code of Conduct and Inclusive Governance Learning Course](https://github.com/microsoft/OSPO-Courses/tree/main/inclusive-governance)
 
 ## Reviewers Code of Conduct
 
