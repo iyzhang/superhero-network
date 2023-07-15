@@ -9,6 +9,9 @@ I've found many references and diverse efforts while starting up this effort, wh
 * [National Academy of Science: Interventions for Preventing Sexual Harassment](https://www.nap.edu/resource/24994/Interventions%20for%20Preventing%20Sexual%20Harassment%20final.pdf)
 * [Women In Tech: Addressing the Root Causes of Attrition](http://edge.berkeley.edu/wp-content/uploads/2017/08/WomenInTech.pdf)
 * [Big study on the Leaky Pipeline](https://leakytechpipeline.com/wp-content/themes/kapor/pdf/KC18001_report_v6.pdf)
+* [SIGARCH Climate Study 2018](https://www.sigarch.org/chilly-climate-in-computer-architecture/)
+
+  
 Research Articles:
 * [The leaky pipeline and Women of Color](https://psycnet.apa.org/fulltext/2019-71055-001.html)
 * [Open-source Callisto code for anonymous incident reporting](https://github.com/project-callisto/callisto-core)
