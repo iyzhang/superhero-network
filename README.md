@@ -6,7 +6,7 @@ We are currently performing a longitudinal study of harassment at CS
 conferences. We have completed a pilot year collecting data at USENIX
 conferences and are collecting data from ACM conferences this year. If
 you are interested in running the survey, contact [Irene
-Zhang](mailto:irene.zhang@microsoft.com), Daniel Berger [Daniel
+Zhang](mailto:irene.zhang@microsoft.com), [Daniel
 Berger](mailto:daniel.berger@microsoft.com) or [Elizabeth
 Barron](mailto:elizabeth@eb-tc.com). Some resources on this survey:
 
